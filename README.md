@@ -1,0 +1,1 @@
+# Indicadordoganho.pro
